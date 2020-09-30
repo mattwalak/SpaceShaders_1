@@ -1,4 +1,4 @@
-#Space themed shaders! (Inspired by Super Mario Galaxy)
+# Space themed shaders! (Inspired by Super Mario Galaxy)
 
 Demos (Rendered in real time):
 
